@@ -6,6 +6,8 @@ public class NewClass {
 	{
 	   System.out.println("This is my new repo");
 	   System.out.println("First commit");
+	   System.out.println("Second commit");
+	   
 
 	}
 
